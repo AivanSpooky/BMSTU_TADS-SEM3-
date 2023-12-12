@@ -1,0 +1,266 @@
+{
+  "abonents": [
+    {
+      "last_name": "Smirnov",
+      "first_name": "Ivan",
+      "phone": "+79689542522",
+      "address": {
+        "street": "Alabyana Street",
+        "house_number": 15
+      },
+      "status": {
+        "type": "personal",
+        "day": 25,
+        "month": 2,
+        "year": 2004
+      }
+    },
+    {
+      "last_name": "Olhov",
+      "first_name": "Ivan",
+      "phone": "+79876543210",
+      "address": {
+        "street": "Orehovo Region",
+        "house_number": 2
+      },
+      "status": {
+        "type": "professional",
+        "position": "Polygloth",
+        "organization": "HSE"
+      }
+    },
+    {
+      "last_name": "Pogosyan",
+      "first_name": "Vigen",
+      "phone": "+79056500110",
+      "address": {
+        "street": "Komsomolskaya Street",
+        "house_number": 10
+      },
+      "status": {
+        "type": "professional",
+        "position": "Cook",
+        "organization": "Antonio Pizza"
+      }
+    },
+    {
+      "last_name": "Shamarin",
+      "first_name": "Mihail",
+      "phone": "+79069220523",
+      "address": {
+        "street": "Alabyana Street",
+        "house_number": 6
+      },
+      "status": {
+        "type": "personal",
+        "day": 2,
+        "month": 9,
+        "year": 2004
+      }
+    },
+    {
+      "last_name": "Gorodsky",
+      "first_name": "Yuri",
+      "phone": "+79736024425",
+      "address": {
+        "street": "Polaroid Street",
+        "house_number": 10
+      },
+      "status": {
+        "type": "professional",
+        "position": "Coder",
+        "organization": "1C"
+      }
+    },
+    {
+      "last_name": "Kozirnov",
+      "first_name": "Alexander",
+      "phone": "+79035891011",
+      "address": {
+        "street": "West Rt.Street",
+        "house_number": 2
+      },
+      "status": {
+        "type": "professional",
+        "position": "Coder",
+        "organization": "IU7"
+      }
+    },
+    {
+      "last_name": "Trofimov",
+      "first_name": "Andrew",
+      "phone": "+79905551741",
+      "address": {
+        "street": "East Rt.Street",
+        "house_number": 7
+      },
+      "status": {
+        "type": "personal",
+        "day": 10,
+        "month": 5,
+        "year": 2000
+      }
+    },
+    {
+      "last_name": "Mitrofanov",
+      "first_name": "Andrew",
+      "phone": "+79035291221",
+      "address": {
+        "street": "East Rt.Street",
+        "house_number": 7
+      },
+      "status": {
+        "type": "personal",
+        "day": 19,
+        "month": 3,
+        "year": 2003
+      }
+    },
+    {
+      "last_name": "Sergiev",
+      "first_name": "Sergei",
+      "phone": "+79035291221",
+      "address": {
+        "street": "Novopeschanaya St.",
+        "house_number": 4
+      },
+      "status": {
+        "type": "personal",
+        "day": 26,
+        "month": 9,
+        "year": 1997
+      }
+    },
+    {
+      "last_name": "Kim",
+      "first_name": "Renat",
+      "phone": "+79592922215",
+      "address": {
+        "street": "Novopeschanaya St.",
+        "house_number": 8
+      },
+      "status": {
+        "type": "professional",
+        "position": "Math Scientist",
+        "organization": "MGU"
+      }
+    },
+    {
+      "last_name": "Zakirova",
+      "first_name": "Nastya",
+      "phone": "+79592922215",
+      "address": {
+        "street": "Hamovniki Region",
+        "house_number": 4
+      },
+      "status": {
+        "type": "personal",
+        "day": 5,
+        "month": 10,
+        "year": 2004
+      }
+    },
+    {
+      "last_name": "Sobolev",
+      "first_name": "Roman",
+      "phone": "+79889567233",
+      "address": {
+        "street": "Hamovniki Region",
+        "house_number": 8
+      },
+      "status": {
+        "type": "personal",
+        "day": 3,
+        "month": 8,
+        "year": 2004
+      }
+    },
+    {
+      "last_name": "Afansyev",
+      "first_name": "Nikita",
+      "phone": "+7950462899",
+      "address": {
+        "street": "Alabyana Str",
+        "house_number": 5
+      },
+      "status": {
+        "type": "professional",
+        "position": "History Scientist",
+        "organization": "BMSTU"
+      }
+    },
+    {
+      "last_name": "Krilov",
+      "first_name": "Nikolay",
+      "phone": "+79689405316",
+      "address": {
+        "street": "Alabyana Str",
+        "house_number": 3
+      },
+      "status": {
+        "type": "professional",
+        "position": "Plane constructor",
+        "organization": "ISS"
+      }
+    },
+    {
+      "last_name": "Shtifanov",
+      "first_name": "Nikolay",
+      "phone": "+79997804647",
+      "address": {
+        "street": "Zorge Street",
+        "house_number": 5
+      },
+      "status": {
+        "type": "professional",
+        "position": "Minecraft Blogger",
+        "organization": "Twitch"
+      }
+    },
+    {
+      "last_name": "Jakerz",
+      "first_name": "Kolya",
+      "phone": "+79997804647",
+      "address": {
+        "street": "Zorge Street",
+        "house_number": 5
+      },
+      "status": {
+        "type": "personal",
+        "day": 7,
+        "month": 10,
+        "year": 2014
+      }
+    },
+    {
+      "last_name": "Zarl",
+      "first_name": "Roman",
+      "phone": "+79977804647",
+      "address": {
+        "street": "Kop",
+        "house_number": 2
+      },
+      "status": {
+        "type": "personal",
+        "day": 9,
+        "month": 10,
+        "year": 2014
+      }
+    },
+    {
+      "last_name": "Awol",
+      "first_name": "Tyred",
+      "phone": "+79977809647",
+      "address": {
+        "street": "New Street",
+        "house_number": 1
+      },
+      "status": {
+        "type": "personal",
+        "day": 3,
+        "month": 10,
+        "year": 2011
+      }
+    }
+  ]
+}
